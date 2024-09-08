@@ -1,0 +1,68 @@
+
+body{
+    font-family: cursive;
+}
+h4{
+   font-family: cursive;
+}
+.registration-form {
+         max-width: 600px;
+         margin: 0 auto;
+         border: 1px solid #ccc;
+         border-radius: 10px;
+    }
+    .registration-form-details {
+         padding: 13px;
+    }
+    .registration-bg {
+         padding: 10px;
+         background-color: #007bff;
+         color: #fff;
+         border-radius: 10px 10px 0 0;
+    }
+    
+    h2 {
+          text-align: center;
+    }
+    h3 {
+         text-align: left;
+    }
+    
+    .form-row {
+         display: flex;
+         justify-content: space-between;
+         gap: 20px;
+    }
+    
+    .form-group {
+         flex: 1;
+         margin-bottom: 15px;
+         font-family: cursive;
+    }
+    
+    label {
+         display: block;
+         margin-bottom: 5px;
+    }
+    
+    input, select {
+         width: 100%;
+        padding-top: 5px;
+         border: 1px solid #ccc;
+         border-radius: 5px;
+         font-family: cursive;
+    }
+    
+    button {
+         padding: 10px 20px;
+         background-color: #007bff;
+         color: #fff;
+         border: none;
+         cursor: pointer;
+         border-radius: 5px;
+    }
+    
+    button:hover {
+         background-color: #0069d9;
+    }
+    
